@@ -1,0 +1,21 @@
+.btn-green {
+  background-color: #1EDD88;
+  color: white;
+  cursor: pointer;
+  padding: 16px 36px;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.fab {
+  color: #1EDD88;
+  cursor: pointer;
+  padding: 0 8px;
+  font-size: 24px;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.hidden:hover {
+  cursor: not-allowed;
+}

@@ -1,0 +1,12 @@
+.card-white {
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  border: 1px solid  rgb(230, 230, 230);
+  border-radius: 4px;
+}
+
+.card-white img {
+  width: 160px;
+  height: 160px;
+}

@@ -1,0 +1,27 @@
+.hero {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.hero h1 {
+  color: white;
+}
+.hero p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #2C2B2B;
+  padding: 60px;
+  text-align: center;
+}
+
+.footer p {
+  color: white;
+  opacity: .7;
+  font-size: 16px;
+}

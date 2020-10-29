@@ -1,0 +1,15 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.card-container {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
